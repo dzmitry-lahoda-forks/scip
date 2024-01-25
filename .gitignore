@@ -23,7 +23,7 @@ TAGS
 
 # common cmake build folder names
 build/
-build*
+build/**/*
 debug/
 release/
 cmake-build-debug/
@@ -142,3 +142,11 @@ examples/*/doc/miniscippy.png
 examples/*/doc/userguide.*
 examples/*/!doc/userguide.tex
 examples/*/lint
+
+# avoid ignoring files in ci folder
+!ci/* 
+
+# nix 
+result
+result-dev
+*.log
