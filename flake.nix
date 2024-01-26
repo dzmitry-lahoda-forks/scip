@@ -13,11 +13,11 @@
     };
     # just to get zimpl, would be awesome zimpl be just git repo in future:)
     suite-src = {
-      url = "https://scipopt.org/download/release/scipoptsuite-8.1.0.tgz";
+      url = "https://scipopt.org/download/release/scipoptsuite-8.0.3.tgz";
       flake = false;
     };
     ipopt = {
-      url = "github:dzmitry-lahoda-forks/Ipopt/676f881a54bbdc185ca60c1bf0f847268e067336";
+      url = "github:dzmitry-lahoda-forks/Ipopt/3eabbd888a6c5b83448083876722296ce20039c3";
     };
     mumps = {
       url = "github:dzmitry-lahoda-forks/mumps/1b56c9295f8cf23ddb20400c44255fa984526977";

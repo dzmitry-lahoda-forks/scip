@@ -75,17 +75,17 @@
         "nixpkgs": "nixpkgs_2"
       },
       "locked": {
-        "lastModified": 1706223107,
-        "narHash": "sha256-gWsWZFAr4NkZFQoK7csw3a22CyRJ5CFpTWM1k4qRpuY=",
+        "lastModified": 1706276124,
+        "narHash": "sha256-8423Rb3ikv4FodIOMqqGY0857Q0MvDMksKcIvIFDs/U=",
         "owner": "dzmitry-lahoda-forks",
         "repo": "Ipopt",
-        "rev": "676f881a54bbdc185ca60c1bf0f847268e067336",
+        "rev": "3eabbd888a6c5b83448083876722296ce20039c3",
         "type": "github"
       },
       "original": {
         "owner": "dzmitry-lahoda-forks",
         "repo": "Ipopt",
-        "rev": "676f881a54bbdc185ca60c1bf0f847268e067336",
+        "rev": "3eabbd888a6c5b83448083876722296ce20039c3",
         "type": "github"
       }
     },
@@ -337,13 +337,13 @@
     "suite-src": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-UjEYFcKsfBbBN25xxWFRIdZzenUk2Ooev8lz2eQtzTk=",
+        "narHash": "sha256-UcA6II/h4QACKHtE/DrwRWw9UEiPmmLevnAh2uO3yPk=",
         "type": "tarball",
-        "url": "https://scipopt.org/download/release/scipoptsuite-8.1.0.tgz"
+        "url": "https://scipopt.org/download/release/scipoptsuite-8.0.3.tgz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://scipopt.org/download/release/scipoptsuite-8.1.0.tgz"
+        "url": "https://scipopt.org/download/release/scipoptsuite-8.0.3.tgz"
       }
     }
   },
